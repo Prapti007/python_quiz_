@@ -9,7 +9,8 @@
 1. Create Your Quiz: Users can create custom quizzes by adding questions and their corresponding answers to the quiz database. Each question can have multiple 
    choices.
 2. Play the Quiz: Users can select a quiz from the available options and test their knowledge by answering the quiz questions.
-3. Score Tracking: After completing the quiz, users will receive immediate feedback on their performance, including the total score and the number of correct answers.
+3. Score Tracking: After completing the quiz, users will receive immediate feedback on their performance, including the total score and the number of correct 
+   answers.
 4. Add/Remove Questions: Quiz creators can easily add, edit, or remove questions from their created quizzes as needed.
 5. User-Friendly Interface: The project features an intuitive and user-friendly command-line interface, making it easy for users to navigate and interact with the 
    quizzes.
