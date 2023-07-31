@@ -32,6 +32,7 @@
  5. Save the quiz once you have added all the questions.
 
 ## How to Play a Quiz
+
 1. Launch the ```play_quiz.py``` option.
 2. Choose the quiz you want to play from the available options.
 3. Answer the questions displayed one by one.
