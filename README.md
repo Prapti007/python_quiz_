@@ -4,7 +4,7 @@
 ## Introduction
 
  Welcome to the Python Quiz Project! This project allows users to create their quizzes and play them. Whether you're a Python enthusiast, a general knowledge 
- buff, or want to create quizzes for educational purposes, this project has got you covered!
+ buff, or want to create quizzes for educational purposes, this project has got you covered!.
 
 ## Features
 
