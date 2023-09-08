@@ -14,8 +14,7 @@
 3. Score Tracking: After completing the quiz, users will receive immediate feedback on their performance, including the total score and the number of correct 
    answers.
 4. Add/Remove Questions: Quiz creators can easily add, edit, or remove questions from their created quizzes as needed.
-5. User-Friendly Interface: The project features an intuitive and user-friendly command-line interface, making it easy for users to navigate and interact with the 
-   quizzes.
+5. User-Friendly Interface: The project features an intuitive and user-friendly command-line interface, making it easy for users to navigate and interact with the quizzes.
 
 ## Setup
 
