@@ -33,10 +33,10 @@
 
 ## How to Play a Quiz
 
-1. Launch the ```play_quiz.py``` option.
-2. Choose the quiz you want to play from the available options.
-3. Answer the questions displayed one by one.
-4. After completing the quiz, you will receive your score and the number of correct answers.
+ 1. Launch the ```play_quiz.py``` option.
+ 2. Choose the quiz you want to play from the available options.
+ 3. Answer the questions displayed one by one.
+ 4. After completing the quiz, you will receive your score and the number of correct answers.
 
 ## Contribution Guidelines
  We welcome contributions to improve the Python Quiz Project. If you find any bugs or have suggestions for new features, feel free to create an issue or submit a 
